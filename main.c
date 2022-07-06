@@ -3,5 +3,6 @@
 int main() {
   printf("Hello, world");
   printf("Hello, Git");
+  printf("hello, 2022!");
   return 0;
 }
